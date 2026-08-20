@@ -1,0 +1,1 @@
+I have been following my custom roadmap to learn pyton.In the initial phase I had to learn terminal commands,git and github. And this is the firat readme that I have ever made. (Many more to gooooooooooo!)
